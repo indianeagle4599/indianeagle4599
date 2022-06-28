@@ -3,13 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=indianeagle4599" alt="indianeagle4599" /></a> </p>
 
-- 🔭 I’m currently working on **G Research Crypto**
+- 🔭 I’m currently working on **Drone Based Technologies**
 
 - 🌱 I’m currently learning **Deep Learning and Reinforcement Learning**
 
-- 🤝 I’m looking for help with [PyCommander](https://github.com/indianeagle4599/PyCommander)
-
-- 💬 Ask me about **Data Science, NLP and Computer Vision with Python; React Native, MERN Stack.**
+- 💬 Ask me about **Data Science, Audio Processing, NLP and Computer Vision with Python; React Native, MERN Stack.**
 
 - 📫 How to reach me **hiteshgoyal.business@gmail.com**
 
