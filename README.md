@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Hitesh Goyal</h1>
-<h3 align="center">A motivated and curious AI ML Student from India</h3>
+<h3 align="center">A motivated and curious Machine Learning Engineer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=indianeagle4599" alt="indianeagle4599" /></a> </p>
 
-- 🔭 I’m currently working on **Drone Based Technologies**
+- 🔭 I’m currently a **Machine Learning Engineer** at Tata Elxsi
 
-- 🌱 I’m currently learning **Deep Learning and Reinforcement Learning**
+- 🌱 I’m currently learning **Deep Learning Techniques used in Computer Vision**
 
-- 💬 Ask me about **Data Science, Audio Processing, NLP and Computer Vision with Python; React Native, MERN Stack.**
+- 💬 Ask me about **Data Science, Audio Processing, NLP and Computer Vision with Python**
 
 - 📫 How to reach me **hiteshgoyal.business@gmail.com**
 
