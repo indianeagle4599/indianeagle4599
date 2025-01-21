@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Hitesh Goyal</h1>
-<h3 align="center">A motivated and curious Machine Learning Engineer from India</h3>
+<h3 align="center">I'm an AI enthusiast passionate about building efficient, scalable solutions that tackle real-world problems. With a background in deep learning, computer vision, NLP, and audio processing, I enjoy exploring new domains and applying my knowledge to create impactful solutions. I’m always looking to improve my skills, write cleaner code, and learn new techniques to stay ahead of the curve. My focus is on continuous learning and contributing to innovative AI projects that drive meaningful change.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=indianeagle4599" alt="indianeagle4599" /></a> </p>
 
-- 🔭 I’m currently a **Machine Learning Engineer** at Tata Elxsi
+- 🔭 I’m currently a **Student** at Nanyang Technological University, Singapore
 
-- 🌱 I’m currently learning **Deep Learning Techniques used in Computer Vision**
+- 🌱 I’m currently learning **Time Series Processing**
 
-- 💬 Ask me about **Data Science, Audio Processing, NLP and Computer Vision with Python**
+- 💬 Ask me about **Computer Vision, Audio Processing, NLP and Data Science, with Python**
 
 - 📫 How to reach me **hiteshgoyal.business@gmail.com**
 
