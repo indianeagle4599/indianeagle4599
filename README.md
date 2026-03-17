@@ -1,10 +1,10 @@
 <h1>Hi 👋, I'm Hitesh Goyal</h1>
 
-I'm an AI enthusiast passionate about building efficient, scalable solutions that tackle real-world problems. With a background in deep learning, computer vision, NLP, and audio processing, I enjoy exploring new domains and applying my knowledge to create impactful solutions. I’m always looking to improve my skills, write cleaner code, and learn new techniques to stay ahead of the curve. My focus is on continuous learning and contributing to innovative AI projects that drive meaningful change.
+Performance-driven AI Engineer and NTU graduate with a strong foundation in identifying and resolving system bottlenecks, to transform complex AI models into stable, optimised solutions. Skilled in the end-to-end model lifecycle—from training and fine-tuning to re-engineering pipelines for maximum resource efficiency to bridge the gap between research prototypes and functional tools by developing modular, clean code and managing containerized environments via Docker and AWS.
 
-- 🔭 I’m currently a **Student** at Nanyang Technological University, Singapore
+- 🔭 I’m currently an **MSAI Graduate** from Nanyang Technological University, Singapore
 
-- 🌱 I’m currently learning **Time Series Processing**
+- 🌱 I’m currently learning **Agentic AI Development** and **Vision Language Model Usage**
 
 - 💬 Ask me about **Computer Vision, Audio Processing, NLP and Data Science, with Python**
 
